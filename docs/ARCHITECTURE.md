@@ -1,5 +1,7 @@
 # DeepSeek TUI Architecture
 
+> **简体中文**：[ARCHITECTURE.zh-CN.md](ARCHITECTURE.zh-CN.md)
+
 This document provides an overview of the DeepSeek TUI architecture for developers and contributors.
 
 Current boundary note (v0.8.6):

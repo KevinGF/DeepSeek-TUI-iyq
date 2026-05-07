@@ -1,5 +1,7 @@
 # Competitive Analysis: DeepSeek TUI vs OpenCode vs Codex CLI
 
+> **简体中文**：[COMPETITIVE_ANALYSIS.zh-CN.md](COMPETITIVE_ANALYSIS.zh-CN.md)
+
 Analysis of capabilities across three AI coding agents: OpenCode (`/Volumes/VIXinSSD/opencode`), Codex CLI (`/Volumes/VIXinSSD/codex-main`), and DeepSeek TUI (`/Volumes/VIXinSSD/deepseek-tui`).
 
 ## Tool Matrix

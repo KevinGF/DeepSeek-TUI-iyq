@@ -1,5 +1,7 @@
 # v0.7.5 Implementation Plan
 
+> **简体中文**：[V0_7_5_IMPLEMENTATION_PLAN.zh-CN.md](V0_7_5_IMPLEMENTATION_PLAN.zh-CN.md)
+
 Scope: background shell job UX, in-TUI MCP management/discovery, and V4
 context/cache policy. Do not include provider expansion or Whalescale
 rename/migration work in this release lane.
