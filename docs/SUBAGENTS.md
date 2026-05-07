@@ -1,5 +1,7 @@
 # Sub-Agents
 
+> **简体中文**：[SUBAGENTS.zh-CN.md](SUBAGENTS.zh-CN.md)
+
 Sub-agents are background instances of the agent loop. The parent
 agent spawns one with a focused task, gets back an `agent_id`
 immediately, and continues working while the sub-agent runs to

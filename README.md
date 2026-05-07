@@ -362,20 +362,31 @@ Commands: `/skills` (list), `/skill <name>` (activate), `/skill new` (scaffold),
 
 ## Documentation
 
-| Doc | Topic |
-|---|---|
-| [ARCHITECTURE.md](docs/ARCHITECTURE.md) | Codebase internals |
-| [CONFIGURATION.md](docs/CONFIGURATION.md) | Full config reference |
-| [MODES.md](docs/MODES.md) | Plan / Agent / YOLO modes |
-| [MCP.md](docs/MCP.md) | Model Context Protocol integration |
-| [RUNTIME_API.md](docs/RUNTIME_API.md) | HTTP/SSE API server |
-| [INSTALL.md](docs/INSTALL.md) | Platform-specific install guide |
-| [MEMORY.md](docs/MEMORY.md) | User memory feature guide |
-| [SUBAGENTS.md](docs/SUBAGENTS.md) | Sub-agent role taxonomy and lifecycle |
-| [KEYBINDINGS.md](docs/KEYBINDINGS.md) | Full shortcut catalog |
-| [RELEASE_RUNBOOK.md](docs/RELEASE_RUNBOOK.md) | Release process |
-| [LOCALIZATION.md](docs/LOCALIZATION.md) | UI locale matrix & switching |
-| [OPERATIONS_RUNBOOK.md](docs/OPERATIONS_RUNBOOK.md) | Ops & recovery |
+English docs link to Simplified Chinese translations where available ([README.zh-CN.md](README.zh-CN.md)).
+
+| Doc | 简体中文 | Topic |
+|---|---|---|
+| [ARCHITECTURE.md](docs/ARCHITECTURE.md) | [ARCHITECTURE.zh-CN.md](docs/ARCHITECTURE.zh-CN.md) | Codebase internals |
+| [CONFIGURATION.md](docs/CONFIGURATION.md) | [CONFIGURATION.zh-CN.md](docs/CONFIGURATION.zh-CN.md) | Full config reference |
+| [MODES.md](docs/MODES.md) | [MODES.zh-CN.md](docs/MODES.zh-CN.md) | Plan / Agent / YOLO modes |
+| [MCP.md](docs/MCP.md) | [MCP.zh-CN.md](docs/MCP.zh-CN.md) | Model Context Protocol integration |
+| [RUNTIME_API.md](docs/RUNTIME_API.md) | [RUNTIME_API.zh-CN.md](docs/RUNTIME_API.zh-CN.md) | HTTP/SSE API server |
+| [INSTALL.md](docs/INSTALL.md) | [INSTALL.zh-CN.md](docs/INSTALL.zh-CN.md) | Platform-specific install guide |
+| [MEMORY.md](docs/MEMORY.md) | [MEMORY.zh-CN.md](docs/MEMORY.zh-CN.md) | User memory feature guide |
+| [SUBAGENTS.md](docs/SUBAGENTS.md) | [SUBAGENTS.zh-CN.md](docs/SUBAGENTS.zh-CN.md) | Sub-agent role taxonomy and lifecycle |
+| [KEYBINDINGS.md](docs/KEYBINDINGS.md) | [KEYBINDINGS.zh-CN.md](docs/KEYBINDINGS.zh-CN.md) | Full shortcut catalog |
+| [TOOL_SURFACE.md](docs/TOOL_SURFACE.md) | [TOOL_SURFACE.zh-CN.md](docs/TOOL_SURFACE.zh-CN.md) | Model-visible tool surface |
+| [ACCESSIBILITY.md](docs/ACCESSIBILITY.md) | [ACCESSIBILITY.zh-CN.md](docs/ACCESSIBILITY.zh-CN.md) | Accessibility & low-motion |
+| [LOCALIZATION.md](docs/LOCALIZATION.md) | [LOCALIZATION.zh-CN.md](docs/LOCALIZATION.zh-CN.md) | UI locale matrix & switching |
+| [DOCKER.md](docs/DOCKER.md) | [DOCKER.zh-CN.md](docs/DOCKER.zh-CN.md) | Docker |
+| [capacity_controller.md](docs/capacity_controller.md) | [capacity_controller.zh-CN.md](docs/capacity_controller.zh-CN.md) | Context capacity controller |
+| [RELEASE_RUNBOOK.md](docs/RELEASE_RUNBOOK.md) | [RELEASE_RUNBOOK.zh-CN.md](docs/RELEASE_RUNBOOK.zh-CN.md) | Release process |
+| [OPERATIONS_RUNBOOK.md](docs/OPERATIONS_RUNBOOK.md) | [OPERATIONS_RUNBOOK.zh-CN.md](docs/OPERATIONS_RUNBOOK.zh-CN.md) | Ops & recovery |
+| [COMPETITIVE_ANALYSIS.md](docs/COMPETITIVE_ANALYSIS.md) | [COMPETITIVE_ANALYSIS.zh-CN.md](docs/COMPETITIVE_ANALYSIS.zh-CN.md) | Competitive analysis (reference) |
+| [LEGACY_RUST_AUDIT_0_7_6.md](docs/LEGACY_RUST_AUDIT_0_7_6.md) | [LEGACY_RUST_AUDIT_0_7_6.zh-CN.md](docs/LEGACY_RUST_AUDIT_0_7_6.zh-CN.md) | Legacy Rust audit notes |
+| [V0_7_5_IMPLEMENTATION_PLAN.md](docs/V0_7_5_IMPLEMENTATION_PLAN.md) | [V0_7_5_IMPLEMENTATION_PLAN.zh-CN.md](docs/V0_7_5_IMPLEMENTATION_PLAN.zh-CN.md) | v0.7.5 plan (index; archived) |
+| [archive/V0_7_5_IMPLEMENTATION_PLAN.md](docs/archive/V0_7_5_IMPLEMENTATION_PLAN.md) | [archive/V0_7_5_IMPLEMENTATION_PLAN.zh-CN.md](docs/archive/V0_7_5_IMPLEMENTATION_PLAN.zh-CN.md) | v0.7.5 plan (archived body) |
+| [v0.8.8-coordinator-prompt.md](docs/v0.8.8-coordinator-prompt.md) | [v0.8.8-coordinator-prompt.zh-CN.md](docs/v0.8.8-coordinator-prompt.zh-CN.md) | Coordinator prompt (internal) |
 
 Full Changelog: [CHANGELOG.md](CHANGELOG.md).
 

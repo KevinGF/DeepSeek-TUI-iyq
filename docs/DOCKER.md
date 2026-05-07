@@ -1,5 +1,7 @@
 # Docker
 
+> **简体中文**：[DOCKER.zh-CN.md](DOCKER.zh-CN.md)
+
 DeepSeek TUI ships an official multi-arch Docker image (amd64 + arm64) on
 [GitHub Container Registry](https://github.com/Hmbown/DeepSeek-TUI/pkgs/container/deepseek-tui).
 
